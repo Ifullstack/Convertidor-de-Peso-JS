@@ -1,0 +1,24 @@
+#body {
+    margin-top: 70px;
+    background-color: rgb(66, 1, 63);
+    color: #fff;
+}
+
+.container {
+    margin-top: 70px;
+}
+
+#cardG {
+    background-color: blue;
+    color: #fff;
+}
+
+#cardK {
+    background-color: red;
+    color: #fff;
+}
+
+#cardO {
+    background-color: green;
+    color: #fff;
+}
